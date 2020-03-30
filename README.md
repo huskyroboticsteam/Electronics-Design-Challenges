@@ -28,6 +28,6 @@ Make sure you commit your changes often.
 3. You will need to commit these changes again.
 
 ## Other Helpful Commands
-`git status` Shows you the status of your branch
+`git status` Shows you the status of your branch. This is helpful if you run into problems with your repository
 
 `git branch` Shows you the list of all branches and highlights which branch you are working in
