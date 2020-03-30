@@ -10,4 +10,4 @@ Note: all setup instructions are using the terminal commands
 Your branch should now be set up and ready for you to take on the challenges.
 
 ## Updating Your Branch From Master
-When we post new challenges, the specifications document will be added to the master branch. In order to receive the new specifications on your branch you will need to pull changes using ``
+When we post new challenges, the specifications document will be added to the master branch. In order to receive the new specifications on your branch you will need to pull changes using `git pull origin master`
