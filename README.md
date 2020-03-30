@@ -26,3 +26,7 @@ Make sure you commit your changes often.
 1. Follow the instructions to commit all changes.
 2. Use `git pull origin branchname` where `branchname` is the branch you wish to pull changes from such as master or your challenge repository.
 3. You will need to commit these changes again.
+
+## Other Helpful Commands
+`git status` Shows you the status of your branch
+`git branch` Shows you the list of all branches and highlights which branch you are working in
