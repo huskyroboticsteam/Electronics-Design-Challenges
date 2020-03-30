@@ -29,4 +29,5 @@ Make sure you commit your changes often.
 
 ## Other Helpful Commands
 `git status` Shows you the status of your branch
+
 `git branch` Shows you the list of all branches and highlights which branch you are working in
