@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\Users\Public\Documents\Altium\AD19\Altium-Standard-Library3\Challenge1.SchDoc
+DocumentPath=Challenge1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
