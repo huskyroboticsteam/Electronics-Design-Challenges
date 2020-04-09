@@ -1,0 +1,60 @@
+Added Component: Designator=AIN(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CANH(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CANL(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CLK(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CRX(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CTX(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GND(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PWR(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SCL(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SDA(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TCK(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TDI(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TDO(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TMS(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XRES(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AIN Pin=AIN-1
+Added Pin To Net: NetName=CANH Pin=CANH-1
+Added Pin To Net: NetName=CANL Pin=CANL-1
+Added Pin To Net: NetName=CLK Pin=CLK-1
+Added Pin To Net: NetName=CanRX Pin=CRX-1
+Added Pin To Net: NetName=CanTX Pin=CTX-1
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=3v3 Pin=PWR-1
+Added Pin To Net: NetName=SCL Pin=SCL-1
+Added Pin To Net: NetName=SDA Pin=SDA-1
+Added Pin To Net: NetName=TCK Pin=TCK-1
+Added Pin To Net: NetName=TDI Pin=TDI-1
+Added Pin To Net: NetName=TDO Pin=TDO-1
+Added Pin To Net: NetName=TMS Pin=TMS-1
+Added Pin To Net: NetName=XRES Pin=XRES-1
+Added Member To Class: ClassName=Challenge1 Member=Component AIN Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CANH Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CANL Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CLK Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CRX Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CTX Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component GND Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component PWR Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component SCL Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component SDA Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component TCK Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component TDI Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component TDO Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component TMS Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component XRES Test Point
