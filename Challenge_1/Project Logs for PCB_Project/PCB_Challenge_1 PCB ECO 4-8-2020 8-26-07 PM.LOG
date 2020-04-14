@@ -1,0 +1,25 @@
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1023A7C3-8368-4D7E-9B79-7EE3BCE0C8A4 Old RevisionGUID= New RevisionGUID=FD2C790F-F01C-4B88-85A9-473B986D0563
+Change Managed Component Library Link : Designator=C2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1023A7C3-8368-4D7E-9B79-7EE3BCE0C8A4 Old RevisionGUID= New RevisionGUID=FD2C790F-F01C-4B88-85A9-473B986D0563
+Change Managed Component Library Link : Designator=C3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1023A7C3-8368-4D7E-9B79-7EE3BCE0C8A4 Old RevisionGUID= New RevisionGUID=FD2C790F-F01C-4B88-85A9-473B986D0563
+Change Managed Component Library Link : Designator=C4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1023A7C3-8368-4D7E-9B79-7EE3BCE0C8A4 Old RevisionGUID= New RevisionGUID=FD2C790F-F01C-4B88-85A9-473B986D0563
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1023A7C3-8368-4D7E-9B79-7EE3BCE0C8A4 Old RevisionGUID= New RevisionGUID=FD2C790F-F01C-4B88-85A9-473B986D0563
+Change Managed Component Library Link : Designator=C6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1023A7C3-8368-4D7E-9B79-7EE3BCE0C8A4 Old RevisionGUID= New RevisionGUID=FD2C790F-F01C-4B88-85A9-473B986D0563
+Change Managed Component Library Link : Designator=C7 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1023A7C3-8368-4D7E-9B79-7EE3BCE0C8A4 Old RevisionGUID= New RevisionGUID=FD2C790F-F01C-4B88-85A9-473B986D0563
+Change Managed Component Library Link : Designator=C8 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1023A7C3-8368-4D7E-9B79-7EE3BCE0C8A4 Old RevisionGUID= New RevisionGUID=FD2C790F-F01C-4B88-85A9-473B986D0563
+Change Managed Component Library Link : Designator=J1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2AA63242-3786-4140-963E-077AC012EF2E Old RevisionGUID= New RevisionGUID=D2FF294C-AD42-4AA5-B107-315D014EE3D6
+Change Managed Component Library Link : Designator=U3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=E78A9361-BBF2-411A-8F3F-105DCD22A5B0 Old RevisionGUID= New RevisionGUID=9CD7FCC2-C179-44AD-B10A-1D9981298FA0
+Added Member To Class: ClassName=Challenge1 Member=Component AIN Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CANH Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CANL Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CLK Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CRX Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component CTX Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component GND Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component PWR Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component SCL Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component SDA Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component TCK Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component TDI Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component TDO Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component TMS Test Point
+Added Member To Class: ClassName=Challenge1 Member=Component XRES Test Point
